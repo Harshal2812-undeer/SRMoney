@@ -1,5 +1,3 @@
-# SRMoney
-
 # Razorpay Integration
 
 This is a simple Flutter application that integrates with the Razorpay payment gateway.
